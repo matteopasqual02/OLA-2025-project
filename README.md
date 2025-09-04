@@ -43,5 +43,6 @@ We simulate a company that must dynamically set prices for a portfolio of produc
 - Compare:
   - **Combinatorial-UCB with sliding window**
   - **Primal-dual method**
+  
 
 ---
